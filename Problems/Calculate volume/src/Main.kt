@@ -1,0 +1,1 @@
+fun getVolume(width:Int, length:Int = 1, height:Int = 1) = width * length * height

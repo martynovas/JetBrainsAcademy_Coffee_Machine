@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Car speed/out/
+/Problems/Car speed/out/production/classes/
+/Problems/Currency comparison/out/
+/Problems/Currency comparison/out/production/classes/
